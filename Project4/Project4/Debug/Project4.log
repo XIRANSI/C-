@@ -1,0 +1,5 @@
+﻿  liamxi.c
+D:\mygithub\C-\Project4\Project4\liamxi.c(1,1): warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+D:\mygithub\C-\Project4\Project4\liamxi.c(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+D:\mygithub\C-\Project4\Debug\Project4.exe : fatal error LNK1120: 1 个无法解析的外部命令
